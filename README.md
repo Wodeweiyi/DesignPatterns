@@ -6,3 +6,5 @@
 # 二、builder 构造者模式
 
 # 三、ModelView 观察者模式
+
+# 四、Strategy 策略模式
